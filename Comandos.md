@@ -63,7 +63,9 @@ x = apaga um caracter (fora do modo de edição)
 
 
 
+# Comandos do python
 
+tqdm = mostra o progresso do laço for, para sabermos quanto tempo vai demorar pra rodar o código.
 
 
 
